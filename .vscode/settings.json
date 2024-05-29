@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "eradiction of dimension worm.sln"
+    "dotnet.defaultSolution": "eradiction-of-dimention-worm.sln"
 }
